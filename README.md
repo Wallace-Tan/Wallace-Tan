@@ -83,11 +83,8 @@
   <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Wallace-Tan&theme=neon&stats=true" alt="Wallace Tan's 3D Isometric Contributions" width="100%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="200" src="https://github-stats-extended.vercel.app/api?username=Wallace-Tan&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />  
-  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=donut&langs_count=4&theme=github_dark" />
-</p>
-
 ---
 
 ## 💻 Let's Connect
