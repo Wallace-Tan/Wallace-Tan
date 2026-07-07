@@ -85,7 +85,7 @@
 
 <p align="center">
   <img height="200" src="https://github-stats-extended.vercel.app/api?username=Wallace-Tan&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />  
-  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=compact&langs_count=6&theme=github_dark" />
+  <img height="235" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=compact&langs_count=6&theme=github_dark" />
 </p>
 
 ---
