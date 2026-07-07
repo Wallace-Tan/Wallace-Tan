@@ -80,12 +80,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph" width="100%" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Wallace-Tan&theme=neon&stats=true" alt="Wallace Tan's 3D Isometric Contributions" width="100%" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Wallace-Tan&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />  
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=compact&langs_count=6&theme=github_dark" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 💻 Let's Connect
 
 * 💼 Add me on [LinkedIn](https://linkedin.com/in/wallace-tan-cs)
 * 📧 Email me at [wallacetan1125@gmail.com](mailto:wallacetan1125@gmail.com)
