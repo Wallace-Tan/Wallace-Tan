@@ -80,16 +80,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Wallace-Tan&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Wallace-Tan&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=compact&theme=dark" />
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contributions Graph" width="100%" />
 </p>
 
 ---
