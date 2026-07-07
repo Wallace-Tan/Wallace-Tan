@@ -53,9 +53,9 @@
 
 | Project | Core Stack | Key Highlights |
 | :--- | :--- | :--- |
-| **☁️ [SafeCloud](https://github.com/Wallace-Tan/SafeCloud)**<br>*AI-powered Cloud Security & Sustainability Platform* | `Multi-Agents` `ESG` `Security` | • Designed a multi-agent AI architecture for security assessments.<br>• Built carbon footprint analytics and automated ESG reporting. |
-| **🚉 [On The Way](https://github.com/Wallace-Tan/On-The-Way)**<br>*Personalized AI Transit Assistant* | `Gemini` `Calendar API` `Transit` | • Integrated Gemini-powered real-time transit disruption predictions.<br>• Automated route notifications using Google Calendar integrations. |
-| **📦 [Procurement Planning](https://github.com/Wallace-Tan/Procurement-Planning)**<br>*Enterprise AI Procurement System* | `Azure AI Foundry` `CI/CD` | • Created demand forecasting models and smart purchase recommendations.<br>• Deployed system securely on Azure AI Foundry with robust CI/CD pipelines. |
+| **[SafeCloud](https://github.com/YawnBear/imaginehack2026)**<br>*AI-powered Cloud Security & Sustainability Platform* | `Multi-Agents` `ESG` `Security` | • Designed a multi-agent AI architecture for security assessments.<br>• Built carbon footprint analytics and automated ESG reporting. |
+| **[On The Way](https://github.com/SoarAway/donki-wonki)**<br>*AI-Driven Personalised Transit Alert App Assistant* | `Gemini` `Calendar API` `Transit` | • Integrated Gemini-powered real-time transit disruption predictions.<br>• Automated route notifications using Google Calendar integrations. |
+| **[Procurement Planning](https://github.com/CowHorsee/cowhorse_v2)**<br>*AI-Driven Smart Procurement System* | `Azure AI Foundry` `CI/CD` | • Created demand forecasting models and smart purchase recommendations.<br>• Deployed system securely on Azure AI Foundry with robust CI/CD pipelines. |
 
 ---
 
@@ -85,7 +85,7 @@
 
 <p align="center">
   <img height="200" src="https://github-stats-extended.vercel.app/api?username=Wallace-Tan&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />  
-  <img height="235" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=compact&langs_count=6&theme=github_dark" />
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wallace-Tan&layout=donut&langs_count=4&theme=github_dark" />
 </p>
 
 ---
